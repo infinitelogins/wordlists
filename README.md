@@ -1,2 +1,2 @@
 # wordlists
-Custom build wordlists that I've made.
+Custom built wordlists that I've made.
